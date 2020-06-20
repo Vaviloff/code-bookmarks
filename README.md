@@ -1,2 +1,3 @@
-# code-bookmarks
-A personal collection of links to resoucres for development
+A personal collection of links to resources for development
+
+### [Sliders](./sliders.md)
