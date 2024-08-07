@@ -1,6 +1,7 @@
 A personal collection of links to resources for development
 
 ### [Countdown](./countdown.md)
+### [Date/time pickers](./date-time.md)
 ### [Documentation](./docs.md)
 ### CSS
   * [Backgrounds](./background.md)
